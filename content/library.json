@@ -1,0 +1,10 @@
+{
+    "entities": "content/world/entities.json",
+    "images": [
+        "content/images/hero.ase",
+        "content/images/tileset.ase"
+    ],
+    "scenes": [
+        "content/world/scene1.json"
+    ]
+}

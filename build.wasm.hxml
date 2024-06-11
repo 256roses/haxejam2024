@@ -1,0 +1,5 @@
+common.hxml
+-D wasm
+--macro firebrick.MacroUtils.setAssetPath('content')
+--macro firebrick.MacroUtils.setWebDefines()
+-cpp output/wasm

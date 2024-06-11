@@ -1,0 +1,10 @@
+{
+    "hero": {
+        "sprite": "content/images/hero.ase",
+        "speed": 1,
+        "acceleration": 0.1,
+        "jumpStrength": 0.5,
+        "gravity": 0.03,
+        "friction": 0.6
+    }
+}

@@ -1,0 +1,4 @@
+common.hxml
+-cpp output/desktop
+-debug
+-D firebrick_editor

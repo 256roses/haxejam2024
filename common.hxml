@@ -1,0 +1,6 @@
+-p source
+-m Program
+
+-lib ase
+-lib firebrick
+-lib raylib-hx

@@ -1,0 +1,9 @@
+[submodule "vendor/ase"]
+	path = vendor/ase
+	url = https://github.com/miriti/ase
+[submodule "vendor/firebrick"]
+	path = vendor/firebrick
+	url = https://github.com/256roses/firebrick
+[submodule "vendor/raylib-hx"]
+	path = vendor/raylib-hx
+	url = https://github.com/foreignsasquatch/raylib-hx
