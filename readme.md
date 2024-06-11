@@ -16,7 +16,7 @@ and to *build* the project
 
 For desktop:
 ```
-haxe build.desktop.hxml
+haxe build.cpp.hxml
 ```
 
 For web:
@@ -26,6 +26,6 @@ haxe build.wasm.hxml
 ```
 
 ### Libraries
-The thrid-party libraries used include
+The third-party libraries used include
 - [raysan5/raylib](https://www.github.com/raysan5/raylib) for all the rendering
 - [miriti/ase](https://github.com/miriti/ase) for loading aseprite files
